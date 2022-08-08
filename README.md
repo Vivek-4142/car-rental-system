@@ -18,4 +18,27 @@ TECHNOLOGIES USED
 
 •	MongoDB: MongoDB is an open-source document database and leading NoSQL database.
 
+ 
+Database
+1.	MongoDB	3.6
+
+Programming Language and NPM Packages
+Sr.no	Technology	Version
+1.	React.js	17.0.2
+2.	Node.js	16.13.1
+3.	Stripe	8.194.0
+4.	Nodemon	2.0.7
+5.	Express.js	4.17.1
+6.	Mongoose	6.0.13
+7.	styled-components	5.3.3
+8.	react-redux	7.2.6
+
+
+Step 1- Install the nodemodules by typing npm install in server 
+Step 2- Install the nodemodules by typing npm install in client side
+Step 3- Do npm start in server side to start the connection,after the connection is successfully established go to next step
+Step 4-Do npm start in client side to start the app
+Step 5-The application runs on http://localhost:3000/
+Step 6-Backend can be seen https://www.mongodb.com/cloud by entering the registered email id and password
+
 
