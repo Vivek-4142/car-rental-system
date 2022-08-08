@@ -9,9 +9,13 @@ INTRODUCTION
 Manual booking of cars can be a hectic job, it takes hard work to maintain the information about booking and cars. Finding a vehicle takes more time and makes the process even more difficult. The aim of the project is to automate this work including generating daily bookings, record of available cars, rental charges and records of the customers.This a car booking software that provides complete solution to our daily car booking office needs. 
 
 TECHNOLOGIES USED
+
 •	ReactJs: It is a JavaScript library for building user interface used to build single-page applications and allows us to create reusable UI components.
+
 •	Nodejs: Node.js is an open-source server environment that allows us to run JavaScript on the server.
+
 •	Express.js: Express JS is a Node.js framework designed to build API's web applications cross-platform mobile apps quickly and make node js easy.
+
 •	MongoDB: MongoDB is an open-source document database and leading NoSQL database.
 
 
