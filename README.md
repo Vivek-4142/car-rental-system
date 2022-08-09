@@ -35,10 +35,15 @@ Sr.no	Technology	Version
 
 
 Step 1- Install the nodemodules by typing npm install in server 
+
 Step 2- Install the nodemodules by typing npm install in client side
+
 Step 3- Do npm start in server side to start the connection,after the connection is successfully established go to next step
+
 Step 4-Do npm start in client side to start the app
-Step 5-The application runs on http://localhost:3000/
+
+Step 5-The application runs on localhost
+
 Step 6-Backend can be seen https://www.mongodb.com/cloud by entering the registered email id and password
 
 
