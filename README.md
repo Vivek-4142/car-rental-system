@@ -4,11 +4,13 @@ Car rental management system provides a total solution to the field of auto rent
 
 
 
-INTRODUCTION
+**INTRODUCTION**
 
 Manual booking of cars can be a hectic job, it takes hard work to maintain the information about booking and cars. Finding a vehicle takes more time and makes the process even more difficult. The aim of the project is to automate this work including generating daily bookings, record of available cars, rental charges and records of the customers.This a car booking software that provides complete solution to our daily car booking office needs. 
 
-TECHNOLOGIES USED
+
+
+**TECHNOLOGIES USED**
 
 •	ReactJs: It is a JavaScript library for building user interface used to build single-page applications and allows us to create reusable UI components.
 
@@ -19,11 +21,12 @@ TECHNOLOGIES USED
 •	MongoDB: MongoDB is an open-source document database and leading NoSQL database.
 
  
+ 
 Database
 1.	MongoDB	3.6
 
 Programming Language and NPM Packages
-Sr.no	Technology	Version
+
 1.	React.js	17.0.2
 2.	Node.js	16.13.1
 3.	Stripe	8.194.0
