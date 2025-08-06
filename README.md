@@ -47,6 +47,3 @@ Step 4-Do npm start in client side to start the app
 
 Step 5-The application runs on localhost
 
-Step 6-Backend can be seen https://www.mongodb.com/cloud by entering the registered email id and password
-
-
