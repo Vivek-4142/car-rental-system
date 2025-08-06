@@ -46,4 +46,3 @@ Step 3- Do npm start in server side to start the connection,after the connection
 Step 4-Do npm start in client side to start the app
 
 Step 5-The application runs on localhost
-
